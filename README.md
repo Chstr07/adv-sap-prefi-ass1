@@ -1,6 +1,8 @@
 ## Assignment in Advanced Systems Integration & Architecture
+
 1. Define Service Oriented Architecture(SOA).
 -Service-oriented architecture (SOA) is a way of making software where you use parts of code and data that can be reused. Those parts are called services, and it's like building blocks that do specific tasks for a business that they are made up of the things needed to run that task.
+
 2. List and discuss the characteristics of SOA.
 -These are the characteristics of Service-oriented architecture (SOA)
 
@@ -21,8 +23,10 @@
 *Statelessness - It helps them grow and work better. By managing their 'state' in special ways, it makes their rules more flexible and easier to use again and again.
 
 *Discoverability - is about making services easy to find, often in a service registry. It's really important for services to communicate well with each other. Instead of just being like interchangeable tools, services have their own identity and can be managed individually or in groups.
+
 3. Define Microservices.
 -Microservices are like smaller, separate parts of a system, unlike big, connected systems. They make applications more flexible and easier to work with. They allow for specific updates, using different tools for different jobs, and can grow individually, saving money. They're different from big, connected systems and another similar system called service-oriented architecture.
+
 4. List and discuss the benefits of using Microservices.
 -Benefits of Microservices 
 -Executives and project leaders really like microservices, which is kind of uncommon because usually, there are things are built is more for the engineers. But with microservices, it's different. They fit well with how leaders want to organize their teams and projects, making it easier to run things the way they prefer. Microservices are a way of building things that match the way operations are managed.
@@ -30,7 +34,5 @@
 5. List and discuss the similarities and differences of SOA and Microservices.
 -The difference between SOA and microservices is their scope.
 SOA was all about linking services across the entire company, connected services across the whole business while microservices focus on just one application. and are about breaking down one application into smaller, more flexible pieces.
-
 They have different goals. SOA wants services to be reused across the enterprise, while microservices are more about making individual parts of an application independent. They also use different communication methods, SOA often uses synchronous communication, while microservices prefer asynchronous ways to talk to each other.
-
 In SOA, the focus is on everyone using the same communication system, but with microservices, each part can have its own way to communicate. This can make SOA systems slower but more uniform, while microservices might be faster but less standardized. Both have their strengths, but they work differently and serve different scopes within a business.
